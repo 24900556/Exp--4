@@ -38,6 +38,7 @@ HOSPITAL MANAGEMENT SYSTEM Star UML Diagrams:
    
 ## 6. Sequence Diagram:
 
+<img width="798" height="664" alt="image" src="https://github.com/user-attachments/assets/b49b34c5-80cf-4908-ab83-a185613d72a2" />
 
 
 # RESULT:
