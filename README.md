@@ -29,6 +29,7 @@ HOSPITAL MANAGEMENT SYSTEM Star UML Diagrams:
 
 ## 4. Communication Diagram:
 
+<img width="1070" height="684" alt="image" src="https://github.com/user-attachments/assets/b338dc01-c3af-4d26-9d28-b271afa47e08" />
 
   
 ## 5. Package Diagram:
